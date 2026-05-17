@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "cv-360-ddl"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "336261e1-aea2-88f2-497a-59864fe0aea9"
+  }
+}
