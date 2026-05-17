@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "cv360_lh"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3c279eb3-a59a-aa2d-46fa-5fcc35fdb63b"
+  }
+}
